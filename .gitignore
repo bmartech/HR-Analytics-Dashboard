@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Power BI temporary files
+*.tmp
+*.bak
+*.pbix.autosave
+
+# Log files
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Python cache (if you later add Python scripts)
+__pycache__/
+*.pyc
+
+# Environment files
+.env
